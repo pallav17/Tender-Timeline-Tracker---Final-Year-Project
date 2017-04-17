@@ -1,0 +1,15 @@
+F:\TRAINING\Practicals\Practice1\DataAccess\bin\Debug\DataAccess.dll
+F:\TRAINING\Practicals\Practice1\DataAccess\bin\Debug\DataAccess.pdb
+F:\TRAINING\Practicals\Practice1\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+F:\TRAINING\Practicals\Practice1\DataAccess\obj\Debug\DataAccess.dll
+F:\TRAINING\Practicals\Practice1\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\SONY\Desktop\Practice1\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\SONY\Desktop\Practice1\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\SONY\Desktop\Practice1\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\SONY\Desktop\Practice1\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\SONY\Desktop\Practice1\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Prajwal007\Desktop\Practice1\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Prajwal007\Desktop\Practice1\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Prajwal007\Desktop\Practice1\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Prajwal007\Desktop\Practice1\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Prajwal007\Desktop\Practice1\DataAccess\obj\Debug\DataAccess.pdb
