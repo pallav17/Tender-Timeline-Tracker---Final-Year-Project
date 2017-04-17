@@ -1,0 +1,16 @@
+ if (!IsPostBack)
+        {
+            if (Session["user"] == null)
+            {
+                Response.Redirect("Login.aspx");
+            }
+
+
+
+
+if (!IsPostBack)
+        {
+            if (Session["user"] == null)
+            {
+                Response.Redirect("Login.aspx");
+            }
